@@ -19,9 +19,9 @@ You will also need to provide url for the logo. The url can be local file, a rem
 
 ```json
 {
-    "plugins": ["insert-logo", "another plugin 1", "another plugin 2"],
+    "plugins": ["insert-title", "another plugin 1", "another plugin 2"],
     "pluginsConfig": {
-        "insert-logo": {
+        "insert-title": {
             "url": "http://www.example.com/my-logo.png",
             "title": "Book Title",
             "style": "background: none;"
