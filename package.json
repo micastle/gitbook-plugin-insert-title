@@ -83,8 +83,8 @@
   "keywords": [
     "gitbook",
     "plugin",
-    "insert-logo",
-    "logo",
+    "insert-title",
+    "title",
     "github"
   ],
   "main": "index.js",
@@ -94,7 +94,7 @@
       "name": "matusnov"
     }
   ],
-  "name": "gitbook-plugin-insert-logo",
+  "name": "gitbook-plugin-insert-title",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
