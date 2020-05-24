@@ -10,39 +10,51 @@
         "type": "version"
       },
       "C:\\Users\\micas\\Code\\books\\gitbook测试"
+    ],
+    [
+      {
+        "name": "gitbook-plugin-insert-title",
+        "raw": "gitbook-plugin-insert-title@0.2.0",
+        "rawSpec": "0.2.0",
+        "scope": null,
+        "spec": "0.2.0",
+        "type": "version"
+      },
+      "C:\\Users\\micas\\Code\\books\\gitbook测试"
     ]
   ],
-  "_from": "gitbook-plugin-insert-title@0.1",
-  "_id": "gitbook-plugin-insert-title@0.1",
+  "_from": "gitbook-plugin-insert-title@0.2.0",
+  "_hasShrinkwrap": false,
+  "_id": "gitbook-plugin-insert-title@0.2.0",
   "_inCache": true,
   "_installable": true,
   "_location": "/gitbook-plugin-insert-title",
-  "_nodeVersion": "6.11.4",
+  "_nodeVersion": "12.16.3",
   "_npmOperationalInternal": {
     "host": "s3://npm-registry-packages",
-    "tmp": "tmp/gitbook-plugin-insert-title_0.1_1521716276866_0.7489566873105806"
+    "tmp": "tmp/gitbook-plugin-insert-title_0.2.0_1590246948132_0.13800031759618547"
   },
   "_npmUser": {
     "email": "micastlecl@hotmail.com",
-    "name": "clark"
+    "name": "micastle"
   },
-  "_npmVersion": "3.5.2",
+  "_npmVersion": "6.14.4",
   "_phantomChildren": {},
   "_requested": {
     "name": "gitbook-plugin-insert-title",
-    "raw": "gitbook-plugin-insert-title@0.1",
-    "rawSpec": "0.1",
+    "raw": "gitbook-plugin-insert-title@0.2.0",
+    "rawSpec": "0.2.0",
     "scope": null,
-    "spec": "0.1",
+    "spec": "0.2.0",
     "type": "version"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/gitbook-plugin-insert-logo/-/gitbook-plugin-insert-logo-0.1.5.tgz",
-  "_shasum": "daae8dda41a236d54f13931e570b26729557885a",
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-insert-title/-/gitbook-plugin-insert-title-0.2.0.tgz",
+  "_shasum": "95ad521855ffedab79294e6159b95a4df8dc2538",
   "_shrinkwrap": null,
-  "_spec": "gitbook-plugin-insert-logo@0.1.5",
+  "_spec": "gitbook-plugin-insert-title@0.2.0",
   "_where": "C:\\Users\\micas\\Code\\books\\gitbook测试",
   "author": {
     "email": "matusnov@gmail.com",
@@ -57,9 +69,11 @@
   "directories": {},
   "dist": {
     "fileCount": 6,
-    "shasum": "daae8dda41a236d54f13931e570b26729557885a",
-    "tarball": "https://registry.npmjs.org/gitbook-plugin-insert-logo/-/gitbook-plugin-insert-logo-0.1.5.tgz",
-    "unpackedSize": 3785
+    "integrity": "sha512-I3DfVFtRnLa7hc79q7PrzY9/iZ+pkzrRpm5W24RZQY/6wRNfxV9vGMiU/7+JsTfhrd4oA5BXsBHggUyvad/QUQ==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeyT4kCRA9TVsSAnZWagAAYmwP/jWTlA7bmiaGef22IfMi\n7f6ZSu/DMCKGfBLH+7GZdQsY1j4sfJX3A9jrBW6U4mLKUY2xmSdCRNBuM/pG\nGH5f/zPON3JWi8iIXT5BAAsjnZ96cGMVbt5KDkODiiTMXgjuQ4puHUqq070a\neAu3Eg0NPiuolKeyTotvdwum3whQMv5ya17Szsp2EfO764E4l6Bbw6LFjKYV\nq0JoULan6hnWRgI1T+qMkJ0IaVC1BThPQp6PRBjd+PNkLkYOaLQhWVud7fCo\np34KXpuWyB2oBcrysAUvAGwOupuDI8m0OkEoRiSToXBFc6L7QZR/rgfE0cOB\nXykew4AGocp6wsGnwOyINHTGrsRCC21N1+PFzSWdYgRt4E4xZFrOeU/NNpkp\nTM/Yg6pG2gx5vnuT2sNdyX9AZl+RWwdLgWV+wl4LZdoSOhmQCYgSgZIcAB4W\nA6/gYiwD6/7GSYLA7Wcp4YALAwDVkjTPP0wNSzk38oYkL1pE3K7LBV8kHYji\nBt9i6gFNr1t4DXSwzYI3VBA2L66QQuhw/OlluqNotyomBlFgrfp4TSmVDpf2\n1fmdKh4degzUIrm/MBRyasv0WF8bHT4qA7AbDQvHvyTQM6urUEOeh9qswAfq\nb2Y8Lb0VcEdGxMB3UjLtZZbZIqkLQ9+MyelfSnuEYn/4wzr2ohWcyC5DQDBj\nTc7g\r\n=UIUZ\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "95ad521855ffedab79294e6159b95a4df8dc2538",
+    "tarball": "https://registry.npmjs.org/gitbook-plugin-insert-title/-/gitbook-plugin-insert-title-0.2.0.tgz",
+    "unpackedSize": 5984
   },
   "engines": {
     "gitbook": ">1.x.x"
@@ -90,8 +104,8 @@
   "main": "index.js",
   "maintainers": [
     {
-      "email": "matusnov@gmail.com",
-      "name": "matusnov"
+      "email": "micastlecl@hotmail.com",
+      "name": "micastle"
     }
   ],
   "name": "gitbook-plugin-insert-title",
@@ -102,5 +116,5 @@
     "url": "git+https://github.com/matusnovak/gitbook-plugin-insert-logo.git"
   },
   "scripts": {},
-  "version": "0.2.0"
+  "version": "0.2.5"
 }
